@@ -263,7 +263,7 @@ while not game_over:
                     draw_board(board)
 
 
-    # # Ask for Player 2 Input
+    #Ask for Player 2 Input
     if turn == AI and not game_over:                
 
 #         col = random.randint(0, column_num-1)
