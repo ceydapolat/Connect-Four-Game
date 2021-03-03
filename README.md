@@ -1,4 +1,7 @@
-# Connect-Four-Game with\n
-• a human player vs a human player,\n
-• a human player vs the AI player,\n
+# Connect-Four-Game with
+
+• a human player vs a human player,
+
+• a human player vs the AI player,
+
 • AI player vs AI player.
